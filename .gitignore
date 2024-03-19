@@ -8,6 +8,7 @@ __pycache__/
 
 # Exclude weight
 llama-2-7b
+llama-2-7b-chat
 
 # Distribution / packaging
 .Python
