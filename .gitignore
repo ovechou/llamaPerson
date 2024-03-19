@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Exclude weight
+llama-2-7b
+
 # Distribution / packaging
 .Python
 build/
